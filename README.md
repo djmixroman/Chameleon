@@ -12,11 +12,11 @@
     <img src="http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat" alt="License: MIT" /> <br><br>
 </p>
 
-## Swift 3
+## Swift 5
 
-To use the Swift 3 version, add this to your Podfile (until 2.2 or higher is released):
+To use the Swift 5 version, add this to your Podfile (until 2.2 or higher is released):
 ```ruby
-pod 'ChameleonFramework/Swift', :git => 'https://github.com/ViccAlexander/Chameleon.git'
+pod 'ChameleonFramework/Swift', :git => 'https://github.com/djmixroman/Chameleon.git'
 ```
 
 ## Introduction
